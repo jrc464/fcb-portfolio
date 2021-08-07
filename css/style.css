@@ -1,0 +1,20 @@
+/** Use to check of style.css is connected properly to the html file
+body {
+	background-color: red;
+}
+
+**/
+
+/**Universal selector**/
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1, h2{
+	font-family: 'Montserrat', sans-serif;
+}
+
+img{
+	width: 250px;
+	border-radius: 50%;
+}
