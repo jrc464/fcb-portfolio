@@ -44,7 +44,11 @@ ul{
 	color: white;
 	padding: 25px;
 	height: 200px;
-	border: 5px solid #f2f2f2;
+	border: 3px solid #f2f2f2;
 	margin: 20px;
 	width: 75%;
+}
+
+h2{
+	color: #007bff;
 }
