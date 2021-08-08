@@ -15,11 +15,24 @@ h1, h2{
 }
 
 img{
-	width: 250px;
+	width: 200px;
 	border-radius: 50%;
 }
 
 ul{
 	list-style: none;
 	padding:  0;
+}
+
+/* 80% of vertical space */
+#landing{
+	height:  80vh; 
+
+/*center elements vertically*/
+	display: flex;
+	flex-direction:  column;
+	justify-content: center;
+	align-items: center;
+
+
 }
